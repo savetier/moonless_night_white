@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   sodipodi:docname="audio.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:export-filename="/home/tux/.icons/savetier/xaron/audio.png"
+   inkscape:export-xdpi="127"
+   inkscape:export-ydpi="127"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <style
+       id="style3231">.cls-1{fill:#2d3e50;}.cls-2{fill:#2e79bd;}</style>
+    <style
+       id="style5157">.cls-1{fill:#009eeb;}</style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.81887858"
+     inkscape:cx="144.7101"
+     inkscape:cy="93.420443"
+     inkscape:window-width="1920"
+     inkscape:window-height="987"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:9.877;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path851"
+       cx="149.86972"
+       cy="150.41068"
+       r="142.94501" />
+    <title
+       id="title7007" />
+    <title
+       id="title8480" />
+    <desc
+       id="desc8482" />
+    <g
+       fill="none"
+       fill-rule="evenodd"
+       id="Music"
+       stroke="none"
+       stroke-width="1"
+       transform="matrix(5.2904215,0,0,5.2904215,63.462037,75.271797)"
+       style="fill:#ffffff">
+      <g
+         fill="#979797"
+         id="Icons"
+         transform="translate(-210,-208)"
+         style="fill:#ffffff">
+        <g
+           id="Mixer"
+           transform="translate(210,208)"
+           style="fill:#ffffff">
+          <rect
+             height="29.714285"
+             id="Rectangle"
+             rx="1.5"
+             width="3"
+             x="3.2857144"
+             y="0"
+             style="fill:#ffffff" />
+          <rect
+             height="29.714285"
+             id="rect8487"
+             rx="1.5"
+             width="3"
+             x="14.714286"
+             y="0"
+             style="fill:#ffffff" />
+          <rect
+             height="29.714285"
+             id="rect8489"
+             rx="1.5"
+             width="3"
+             x="26.142857"
+             y="0"
+             style="fill:#ffffff" />
+          <rect
+             height="9.1428576"
+             id="rect8491"
+             rx="1.5"
+             transform="rotate(90,4.785714,8)"
+             width="3"
+             x="3.2857144"
+             y="3.4285715"
+             style="fill:#ffffff" />
+          <rect
+             height="9.1428576"
+             id="rect8493"
+             rx="1.5"
+             transform="rotate(90,27.642857,8)"
+             width="3"
+             x="26.142857"
+             y="3.4285715"
+             style="fill:#ffffff" />
+          <rect
+             height="9.1428576"
+             id="rect8495"
+             rx="1.5"
+             transform="rotate(90,16.214286,20.571429)"
+             width="3"
+             x="14.714286"
+             y="16"
+             style="fill:#ffffff" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

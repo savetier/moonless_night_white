@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   sodipodi:docname="mail.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:export-filename="/home/tux/.icons/Moonless Night/taskmanager2.png"
+   inkscape:export-xdpi="127"
+   inkscape:export-ydpi="127"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <style
+       id="style3231">.cls-1{fill:#2d3e50;}.cls-2{fill:#2e79bd;}</style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.73546996"
+     inkscape:cx="271.25513"
+     inkscape:cy="344.67757"
+     inkscape:window-width="1920"
+     inkscape:window-height="987"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:9.877;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path851"
+       cx="149.86972"
+       cy="150.41068"
+       r="142.94501" />
+    <path
+       style="fill:#ffffff"
+       d="m 65.81195,161.65995 c 0,-29.975 0.2874,-54.5 0.63866,-54.5 0.35127,0 12.50127,11.78739 27,26.19421 17.78048,17.66774 26.36134,26.87708 26.36134,28.29206 0,1.41376 -8.58573,10.64414 -26.32893,28.3058 -14.48091,14.41436 -26.63091,26.20793 -27,26.20793 -0.36909,0 -0.67107,-24.525 -0.67107,-54.5 z m 37.20414,30.80113 c 22.72925,-22.72925 23.77568,-23.62937 25.57611,-22 1.03248,0.93438 2.39083,1.69887 3.01855,1.69887 0.62773,0 2.1673,1.40639 3.42126,3.12532 2.36646,3.24393 9.34504,6.8909 13.11285,6.85272 3.57313,-0.0362 10.72014,-3.77222 15.31027,-8.00326 2.37167,-2.18613 5.13158,-3.97478 6.13312,-3.97478 1.32356,0 34.55903,32.11772 47.14037,45.55499 0.22916,0.24475 -30.59465,0.44501 -68.49737,0.44501 H 79.31721 Z m 99.52027,-4.09537 c -14.14843,-14.18683 -25.70513,-26.22433 -25.68157,-26.75 0.0754,-1.68259 51.52955,-52.45576 53.15929,-52.45576 0.43883,0 0.79787,23.625 0.79787,52.5 0,41.89503 -0.25767,52.5 -1.27559,52.5 -0.70157,0 -12.85157,-11.60741 -27,-25.79424 z m -95.97441,-55.6451 c -21.8625,-22.11778 -39.75,-40.517096 -39.75,-40.887396 0,-0.37029 36.675,-0.67326 81.5,-0.67326 54.51576,0 81.5,0.33635 81.5,1.01588 0,1.30789 -73.30713,74.709496 -78.18328,78.284026 -2.0258,1.48505 -4.0508,2.64942 -4.5,2.58749 -0.4492,-0.0619 -18.70422,-18.20897 -40.56672,-40.32674 z"
+       id="path2531" />
+  </g>
+</svg>

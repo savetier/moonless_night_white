@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   sodipodi:docname="phone.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:export-filename="/home/tux/.icons/Moonless Night/bat.png"
+   inkscape:export-xdpi="127"
+   inkscape:export-ydpi="127"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <style
+       id="style3231">.cls-1{fill:#2d3e50;}.cls-2{fill:#2e79bd;}</style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.81887858"
+     inkscape:cx="144.7101"
+     inkscape:cy="369.40764"
+     inkscape:window-width="1920"
+     inkscape:window-height="987"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:9.877;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path851"
+       cx="149.86972"
+       cy="150.41068"
+       r="142.94501" />
+    <path
+       style="fill:#ffffff;stroke-width:0.357712"
+       d="m 106.69454,242.22341 c -3.80641,-0.90764 -7.216038,-3.74428 -8.996951,-7.48503 L 96.59063,232.41325 V 151.03371 69.654192 l 1.106959,-2.32513 c 1.40686,-2.955064 3.628791,-5.176994 6.583861,-6.583854 l 2.32512,-1.106959 h 41.67348 41.67348 l 2.18369,1.009214 c 2.76228,1.276624 5.51734,4.043464 6.8312,6.860455 l 1.00105,2.146274 v 81.379518 81.37954 l -1.00921,2.18368 c -1.27663,2.7623 -4.04347,5.51734 -6.86046,6.83122 l -2.14627,1.00104 -40.95806,0.0572 c -23.09583,0.0323 -41.5437,-0.0825 -42.30093,-0.263 z m 57.60323,-18.84239 -0.0995,-4.91854 h -15.91823 -15.9182 l -0.0995,4.91854 -0.0995,4.91854 h 16.11724 16.11723 z m 25.65576,-78.42841 V 82.174118 h -41.67348 -41.67348 l -0.0918,62.420782 c -0.0505,34.33143 -0.0151,62.62267 0.0788,62.86941 0.13569,0.35688 8.67801,0.43004 41.76528,0.35772 l 41.59472,-0.0909 z m -9.71046,-71.346505 c 1.29342,-1.198705 1.32599,-3.426096 0.0685,-4.683596 -1.25751,-1.257505 -3.48489,-1.224932 -4.68361,0.06849 -2.76947,2.988316 1.6268,7.384584 4.61512,4.615105 z m -14.25626,-2.521066 v -1.78856 h -17.70676 -17.70676 l -0.11326,1.379037 c -0.21109,2.57009 -1.59083,2.393502 17.89952,2.290888 l 17.62726,-0.0928 z"
+       id="path1226" />
+  </g>
+</svg>

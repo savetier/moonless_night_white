@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   sodipodi:docname="taskmanager.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:export-filename="/home/tux/.icons/savetier/xaron/mediaplayer.png"
+   inkscape:export-xdpi="127"
+   inkscape:export-ydpi="127"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <style
+       id="style3231">.cls-1{fill:#2d3e50;}.cls-2{fill:#2e79bd;}</style>
+    <style
+       id="style5157">.cls-1{fill:#009eeb;}</style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.81887858"
+     inkscape:cx="144.7101"
+     inkscape:cy="93.420443"
+     inkscape:window-width="1920"
+     inkscape:window-height="987"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:9.877;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path851"
+       cx="149.86972"
+       cy="150.41068"
+       r="142.94501" />
+    <title
+       id="title7007" />
+    <g
+       id="g8056"
+       transform="matrix(3.886288,0,0,3.886288,50.001884,52.709671)"
+       style="fill:#ffffff">
+      <rect
+         height="2"
+         width="7"
+         x="42"
+         y="12.5"
+         id="rect8030"
+         style="fill:#ffffff" />
+      <rect
+         height="2"
+         width="7"
+         x="42"
+         y="17.5"
+         id="rect8032"
+         style="fill:#ffffff" />
+      <rect
+         height="2"
+         width="7"
+         x="42"
+         y="22.5"
+         id="rect8034"
+         style="fill:#ffffff" />
+      <rect
+         height="2"
+         width="7"
+         x="42"
+         y="27.5"
+         id="rect8036"
+         style="fill:#ffffff" />
+      <rect
+         height="2"
+         width="7"
+         x="42"
+         y="32.5"
+         id="rect8038"
+         style="fill:#ffffff" />
+      <rect
+         height="2"
+         width="7"
+         x="42"
+         y="37.5"
+         id="rect8040"
+         style="fill:#ffffff" />
+      <path
+         d="m 39.5,3 h -2 v 6.9996338 h -3 V 3 h -2 v 6.9996338 h -3 V 3 h -2 v 6.9996338 h -3 V 3 h -2 v 6.9996338 h -3 V 3 h -2 v 6.9996338 h -3 V 3 h -2 V 9.9996338 H 9.9986572 V 12.5 H 3 v 2 h 6.9986572 v 3 H 3 v 2 h 6.9986572 v 3 H 3 v 2 h 6.9986572 v 3 H 3 v 2 h 6.9986572 v 3 H 3 v 2 h 6.9986572 v 3 H 3 v 2 h 6.9986572 v 2.499634 H 41.998657 V 9.9996338 H 39.5 Z m -26.207031,11.707031 1.414062,-1.414062 1.430664,1.430176 -1.414062,1.414062 z m 19.705688,21.792603 h -14 c -1.649963,0 -3,-1.349976 -3,-3 v -14 c 0,-1.649964 1.350037,-3 3,-3 h 14 c 1.660034,0 3,1.350036 3,3 v 14 c 0,1.650024 -1.339966,3 -3,3 z m 4.294312,2.207397 -1.429688,-1.429687 1.414063,-1.414063 1.429687,1.429688 z"
+         id="path8042"
+         style="fill:#ffffff" />
+      <rect
+         height="7"
+         width="2"
+         x="37.5"
+         y="42"
+         id="rect8044"
+         style="fill:#ffffff" />
+      <rect
+         height="7"
+         width="2"
+         x="32.5"
+         y="42"
+         id="rect8046"
+         style="fill:#ffffff" />
+      <rect
+         height="7"
+         width="2"
+         x="27.5"
+         y="42"
+         id="rect8048"
+         style="fill:#ffffff" />
+      <rect
+         height="7"
+         width="2"
+         x="22.5"
+         y="42"
+         id="rect8050"
+         style="fill:#ffffff" />
+      <rect
+         height="7"
+         width="2"
+         x="17.5"
+         y="42"
+         id="rect8052"
+         style="fill:#ffffff" />
+      <rect
+         height="7"
+         width="2"
+         x="12.5"
+         y="42"
+         id="rect8054"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>

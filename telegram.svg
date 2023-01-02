@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   sodipodi:docname="telegram.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:export-filename="/home/tux/.icons/savetier/xaron/empty.png"
+   inkscape:export-xdpi="127"
+   inkscape:export-ydpi="127"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <style
+       id="style3231">.cls-1{fill:#2d3e50;}.cls-2{fill:#2e79bd;}</style>
+    <style
+       id="style5157">.cls-1{fill:#009eeb;}</style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.81887858"
+     inkscape:cx="144.7101"
+     inkscape:cy="369.40764"
+     inkscape:window-width="1920"
+     inkscape:window-height="987"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:9.877;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path851"
+       cx="149.86972"
+       cy="150.41068"
+       r="142.94501" />
+    <path
+       class="cls-1"
+       d="M 211.02381,80.46253 54.628311,140.98281 a 1.9765303,1.9765303 0 0 0 -0.269833,0.12817 c -1.268218,0.71843 -10.118756,6.13197 2.361043,10.9856 l 0.128171,0.0473 37.240397,12.03121 a 2.0507346,2.0507346 0 0 0 1.716816,-0.20913 l 92.367375,-57.62972 a 2.0237512,2.0237512 0 0 1 0.74205,-0.27995 c 1.28508,-0.2125 4.98517,-0.6105 2.64437,2.36104 -2.64774,3.37292 -65.73819,59.90978 -72.74037,66.18004 a 2.1249388,2.1249388 0 0 0 -0.69819,1.40651 l -3.05587,36.42751 a 2.3880264,2.3880264 0 0 0 0.95453,1.91244 2.320568,2.320568 0 0 0 2.75568,-0.20911 l 22.12634,-19.77543 a 2.0541075,2.0541075 0 0 1 2.57354,-0.13154 l 38.60306,28.02896 0.1248,0.0843 c 0.93429,0.57676 11.02606,6.44901 13.94027,-6.6649 L 222.78855,88.972358 c 0.0371,-0.401377 0.398,-4.813156 -2.75568,-7.420422 -3.3122,-2.725319 -8.00056,-1.349168 -8.7055,-1.200759 a 2.0237512,2.0237512 0 0 0 -0.30356,0.111306 z"
+       id="Telegram"
+       style="fill:#ffffff;stroke-width:0.337292" />
+  </g>
+</svg>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="300"
+   height="300"
+   viewBox="0 0 300 300"
+   sodipodi:docname="mouse.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   inkscape:export-filename="/home/tux/.icons/Moonless Night/mouse.png"
+   inkscape:export-xdpi="127"
+   inkscape:export-ydpi="127"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <style
+       id="style3231">.cls-1{fill:#2d3e50;}.cls-2{fill:#2e79bd;}</style>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.61944389"
+     inkscape:cx="336.59223"
+     inkscape:cy="417.30979"
+     inkscape:window-width="1920"
+     inkscape:window-height="987"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="Image"
+     id="g8">
+    <circle
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:9.877;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path851"
+       cx="149.86972"
+       cy="150.41068"
+       r="142.94501" />
+    <path
+       style="fill:#ffffff"
+       d="m 136.80697,236.00127 c -17.05217,-4.47839 -32.4632,-17.04023 -39.7781,-32.42392 -2.22294,-4.675 -4.53226,-10.88465 -5.13181,-13.79922 -1.53957,-7.48424 -1.32619,-18.66545 0.49046,-25.70078 2.64054,-10.22602 2.79925,-9.85258 -4.58055,-10.77786 -16.84079,-2.1115 -28.80612,-13.08244 -32.00576,-29.34587 -1.00162,-5.09117 -0.93409,-7.06244 0.42346,-12.3615 4.39151,-17.14172 16.69981,-28.99974 34.75735,-33.48581 6.42616,-1.59646 6.93156,-1.5819 13.55466,0.39054 16.98268,5.05767 26.47977,16.95914 26.79642,33.5805 0.0838,4.4 0.56224,7.98347 1.06314,7.96327 0.5009,-0.0202 3.61073,-0.63805 6.91073,-1.373 5.54637,-1.23523 8.91879,-1.21289 27,0.17882 l 3,0.23091 0.18753,-7.21457 c 0.42331,-16.28506 10.01032,-28.09885 27.04995,-33.33288 7.09637,-2.17978 7.35958,-2.1894 13.5,-0.49351 13.46687,3.71937 22.39563,9.81143 28.71898,19.59488 10.01318,15.49235 8.77311,33.26914 -3.15272,45.19497 -5.53258,5.53258 -11.9223,8.62035 -21.07322,10.18343 -8.21086,1.40251 -8.06611,1.10455 -5.35742,11.02778 8.22491,30.13176 -12.78057,63.87722 -44.8332,72.02487 -7.39698,1.88028 -20.25652,1.85177 -27.5399,-0.061 z"
+       id="path10722" />
+  </g>
+</svg>
