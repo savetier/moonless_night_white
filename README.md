@@ -1,5 +1,5 @@
-# Moonless Night
+# Moonless Night White
 
 Dark and minimalistic icon set for GNU/Linux
 
-![moonlessnight2023](https://user-images.githubusercontent.com/75087731/210245675-00ffd537-78c7-467e-a26b-99facbe4913b.png)
+![moonlessnight_white_2023](https://user-images.githubusercontent.com/75087731/211315428-aa99baf8-8ae7-47ff-a567-6396470e9222.jpg)
